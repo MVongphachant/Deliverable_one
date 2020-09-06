@@ -72,7 +72,7 @@ button:hover {
     background-color: #ff5c0f;
 }
 
-li:hover {
+a:hover {
     color: #ff5c0f;
 }
 
@@ -83,6 +83,11 @@ img {
     left: 800px;
     bottom: 225px;
     display: none;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
 }
 
 
